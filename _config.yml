@@ -1,3 +1,12 @@
 title: "My CTF Writeups"
 description: "Collection of writeups and notes from Capture The Flag challenges."
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
+
+# Enable blog mode
+show_excerpts: true
+paginate: 5
+
+# Site links
+collections:
+  categories:
+    output: true
