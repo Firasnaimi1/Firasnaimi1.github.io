@@ -13,7 +13,6 @@ This site contains my personal notes and writeups from Capture The Flag challeng
 - 🧪 [Forensics](./categories/forensics)
 - 🛠️ [Pwn](./categories/pwn)
 - 🔐 [Crypto](./categories/crypto)
-- 🎲 [Misc](./categories/misc)
 
 ---
 
