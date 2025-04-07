@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Challenges
+title: Web Writeups
 ---
 
 # 🌐 Web Writeups
